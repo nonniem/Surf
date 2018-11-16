@@ -1,11 +1,10 @@
 import React from 'react';
 
-function Header(props){
+function About(){
   return(
     <div>
       <h2>This is the Header</h2>
     </div>
   )}
 
-export default Header;
- 
+export default About;
