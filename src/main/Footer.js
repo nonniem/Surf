@@ -2,8 +2,8 @@ import React from 'react';
 
 function Footer(props){
   return(
-    <div>
-      <h2>This is the Header</h2>
+    <div className='footerStyle'>
+      <h4>This is the Footer</h4>
     </div>
   )}
 

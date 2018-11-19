@@ -1,3 +1,23 @@
-* {
-  Background: Blue;
+.navBar {
+  justify-content: space-between;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  background: red;
+  border: black solid 1px ;
+}
+
+.navBarlinks {
+  color: white;
+  font-size: 1.5em;
+
+
+}
+
+.footerStyle {
+  font-size: 1.5em;
+  color: black;
+  border: black 1px solid;
+  position: relative;
+  align-content: center;
 }

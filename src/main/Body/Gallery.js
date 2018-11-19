@@ -3,7 +3,7 @@ import React from 'react';
 function Gallery(){
   return(
     <div>
-      <h2>This is the Header</h2>
+      <h2>lotza pictures in hur</h2>
     </div>
   )}
 
